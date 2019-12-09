@@ -1,0 +1,4 @@
+# ConvertRGBA16
+PictBear用のRGBA16bit画像変換プラグイン
+
+RGBA各256階調を16階調に変換する
